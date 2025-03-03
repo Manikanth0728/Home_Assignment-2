@@ -60,4 +60,4 @@ This repository contains the code and documentation for **Home Assignment 2**. T
 ## Video Submission
 
 Video demonstrating the code and explaining the results.
-[Video Link:]()
+[Video Link:](https://www.loom.com/share/f89790b450e44fa49ff64c88ae42793c?sid=c948718e-36bb-4314-a1e6-d5fb54be1d92)
